@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="postgresql1" type="repository">
+    <properties maven-id="org.postgresql:postgresql:9.4-1206-jdbc42" />
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
